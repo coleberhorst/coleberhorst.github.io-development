@@ -9,7 +9,7 @@ title: Cole Berhorst
 description: 
 url: https://coleberhorst.github.io
 twitter_username:
-default_img: /assets/images/seo.jpg
+default_img:
 social:
   - name: instagram
     url: https://www.instagram.com/coleberhorst/
@@ -17,7 +17,7 @@ social:
     url: https://github.com/coleberhorst
 
 # Contact settings
-contact_img: /assets/images/placeholder-28.jpg
+contact_img:
 formcarry:
 
 # Disqus settings
