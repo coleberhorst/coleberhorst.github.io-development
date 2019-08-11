@@ -1,5 +1,8 @@
 ---
-layout: page
-title: Books
-image:
+layout: default
 ---
+<!-- The main content area -->
+{% for post in site.books %}
+    <h1>{{ post.title }}</h1>
+    {% include post-card.html %}
+{% endfor %}

@@ -60,6 +60,10 @@ autopages:
       mode: raw
       cased: true
 
+collections:
+  books:
+    output: true
+
 # Build settings
 markdown: kramdown
 plugins:
