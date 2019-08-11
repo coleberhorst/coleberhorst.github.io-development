@@ -11,6 +11,8 @@ url: https://coleberhorst.github.io
 twitter_username:
 default_img:
 social:
+  - name: twitter
+    url: https://twitter.com/coleberhorst
   - name: instagram
     url: https://www.instagram.com/coleberhorst/
   - name: github
