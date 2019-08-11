@@ -2,7 +2,16 @@
 layout: default
 ---
 <!-- The main content area -->
-{% for post in site.books %}
-    <h1>{{ post.title }}</h1>
-    {% include post-card.html %}
-{% endfor %}
+<div class="posts">
+    <div class="grid-xlarge">
+      <div class="posts__container" itemscope itemtype="http://schema.org/Blog" data-columns>
+  
+        {% for post in site.books %}
+            {% include post-card.html %}
+        {% endfor %}
+      </div>
+    </div>
+  
+    {% include pagination.html %}
+  </div>
+
