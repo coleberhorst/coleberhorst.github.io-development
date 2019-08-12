@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Now
-date: 2019-09-08
+date: 2019-08-08
 ---
-Welcome! I am Cole Berhorst, an American software engineer, avid reader and gamer. Below is a bit about what I'm up to now.
+Welcome! I am Cole Berhorst, an American software engineer and avid reader. Below is a bit about what I'm up to now.
 
 **School and Job**
 
