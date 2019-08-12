@@ -1,8 +1,11 @@
 ---
-layout: page
 title: Resume
+layout: page
 ---
-## Cole Berhorst *([PDF](javascript:window.print()))*
+## Cole Berhorst *([PDF](/resume.pdf))*
+[coleberhorst.github.io](https://coleberhorst.github.io) | [coleberhorst@gmail.com](mailto:coleberhorst@gmail.com)
+
+&nbsp;
 ### Work
 #### Freelance Software Engineer
 *Remote* | *2012-2019*

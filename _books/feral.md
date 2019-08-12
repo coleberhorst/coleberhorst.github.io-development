@@ -4,7 +4,7 @@ series:
 author: George Monbiot
 date: 2017-05-01
 image: /assets/images/feral.jpg
-layout: book
+layout: post
 ---
 Page: 33
 > Civilization slid off as easily as a bathrobe.

@@ -4,7 +4,7 @@ series: The Secrets of the Immortal Nicholas Flamel
 author: Michael Scott
 date: 2019-07-11
 image: /assets/images/alchemyst.jpg
-layout: book
+layout: post
 ---
 > Sophie’s aura had flared pure silver around her body. It was so dense in places that it even reflected the sunlight, making it appear like a medieval suit of armor.
 
