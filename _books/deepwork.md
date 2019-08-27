@@ -3,7 +3,7 @@ title: "Deep Work: Rules for Focused Success in a Distracted World"
 series:
 author: Cal Newport
 date: 2016-06-23
-image: /assets/images/feral.jpg
+image: /assets/images/deepwork.jpg
 layout: post
 ---
 Location: 58
