@@ -1,6 +1,6 @@
 # Site/SEO settings
 email: coleberhorst@gmail.com
-baseurl: ""
+baseurl: "/now"
 permalink: /:year/:month/:day/:title/
 google_analytics: 
 
@@ -8,11 +8,10 @@ name: Cole Berhorst
 title: Cole Berhorst
 description: 
 url: https://coleberhorst.github.io
-twitter_username: coleberhorst
 default_img:
 social:
-  - name: twitter
-    url: https://twitter.com/coleberhorst
+  - name: facebook
+    url: https://www.facebook.com/cole.berhorst.75
   - name: instagram
     url: https://www.instagram.com/coleberhorst/
   - name: github
@@ -32,7 +31,7 @@ mailchimp_input:
 # Author settings
 author:
   - name: Cole Berhorst
-    bio: Welcome! I am Cole Berhorst, an American software engineer and avid reader.
+    bio: Welcome! I am Cole Berhorst, an American computer science student and retail worker.
     url: https://coleberhorst@github.io
 
 # Pagination settings
