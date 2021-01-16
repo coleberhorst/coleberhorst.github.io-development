@@ -1,8 +1,6 @@
-.env
-.DS_Store
-.s3-website.json
-node_modules/
-
-_site
-.sass-cache
-.jekyll-metadata
+# Ignore these so they're not stored in source control
+.vscode
+/node_modules/
+package-lock.json
+/docs/build.css
+/tmp/
